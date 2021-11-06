@@ -1,0 +1,7 @@
+Los pasos para llevar a cabo este trabajo son los siguientes:
+
+  1- Desmontamos el equipo
+  2- Realizamos un corte con una dremel en la placa separando las lineas de potencia de la salida y del relé.
+  3- Soldamos un puente entre la entrada del relé y la salida que se cortó.
+
+Y ya tendríamos nuesto relé funcionando como interruptor de una linea DC o de una linea independiente a la corriente.
